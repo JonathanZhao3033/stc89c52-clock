@@ -1,0 +1,11 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\temp\stc_digdisplay\digdisplay.uvproj
+Project File Date:  09/17/2019
+
+<h2>Output:</h2>
+"C:\Keil\AStyle_2.02.1_windows\AStyle\bin\AStyle.exe" -p .\digdisplay.c
+²»±ä    .\digdisplay.c
