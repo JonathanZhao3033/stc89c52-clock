@@ -152,7 +152,7 @@ void opentimer0(void)	    //定时器0初始化
 {
     TMOD = 0x01;			 //模式1
     TH0 = 0xfc;
-    TL0 = 0x18;		  //初值，定时10us
+    TL0 = 0x20;		  //初值，定时10us
     EA = 1;
     ET0 = 1;
     TR0 = 1;

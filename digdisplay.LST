@@ -1,4 +1,4 @@
-C51 COMPILER V9.01   DIGDISPLAY                                                            11/05/2019 11:18:01 PAGE 1   
+C51 COMPILER V9.01   DIGDISPLAY                                                            11/05/2019 11:31:54 PAGE 1   
 
 
 C51 COMPILER V9.01, COMPILATION OF MODULE DIGDISPLAY
@@ -62,7 +62,7 @@ line level    source
   53   4                                      s3 = 0;
   54   4                                      s4++;
   55   4                              }
-C51 COMPILER V9.01   DIGDISPLAY                                                            11/05/2019 11:18:01 PAGE 2   
+C51 COMPILER V9.01   DIGDISPLAY                                                            11/05/2019 11:31:54 PAGE 2   
 
   56   3      
   57   3                              if(s4 >= 10)
@@ -126,7 +126,7 @@ line level    source
  115   4                                      LSA=0;LSB=0;LSC=1;
  116   4                                      P0 = duanxian[s4];
  117   4                      delayus(1);
-C51 COMPILER V9.01   DIGDISPLAY                                                            11/05/2019 11:18:01 PAGE 3   
+C51 COMPILER V9.01   DIGDISPLAY                                                            11/05/2019 11:31:54 PAGE 3   
 
  118   4                      P0 = 0x00;
  119   4                                      break;//显示第4位
@@ -165,7 +165,7 @@ line level    source
  152          {
  153   1          TMOD = 0x01;                         //模式1
  154   1          TH0 = 0xfc;
- 155   1          TL0 = 0x18;           //初值，定时10us
+ 155   1          TL0 = 0x20;           //初值，定时10us
  156   1          EA = 1;
  157   1          ET0 = 1;
  158   1          TR0 = 1;
