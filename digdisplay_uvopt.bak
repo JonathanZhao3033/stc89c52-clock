@@ -181,10 +181,10 @@
       <FileType>1</FileType>
       <tvExp>1</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>35</ColumnNumber>
+      <ColumnNumber>9</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>49</TopLine>
-      <CurrentLine>49</CurrentLine>
+      <TopLine>1</TopLine>
+      <CurrentLine>17</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\digdisplay.c</PathWithFileName>
       <FilenameWithoutPath>digdisplay.c</FilenameWithoutPath>
@@ -1536,9 +1536,9 @@
       <Documents>
         <Doc>
           <Name>.\digdisplay.c</Name>
-          <ColumnNumber>55</ColumnNumber>
-          <TopLine>49</TopLine>
-          <CurrentLine>80</CurrentLine>
+          <ColumnNumber>36</ColumnNumber>
+          <TopLine>118</TopLine>
+          <CurrentLine>136</CurrentLine>
         </Doc>
       </Documents>
     </MDIGroup>
